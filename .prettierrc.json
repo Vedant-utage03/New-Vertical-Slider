@@ -8,7 +8,7 @@
       }
     },
     {
-      "files": ["*.html", "legacy/**/*.js"],
+      "files": ["*.html", "legacy/**/*.js,*.css"],
       "options": {
         "tabWidth": 4
       }
