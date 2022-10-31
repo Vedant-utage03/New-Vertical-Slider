@@ -37,11 +37,6 @@ Make a pull request and add the discription of the changes you have done.
 
 Wait for the maintainer to accept the pull request.
 
-# Contributor
-- [Vedant Utage](https://github.com/vedantutage03)
-- [Aadhya Mathur](https://github.com/aadhyamathur)
-- [Pratham Bhatnagar](https://github.com/pratham-bhatnagar)
-
 All the very best.
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
